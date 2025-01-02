@@ -1,0 +1,9 @@
+ssh
+apache2
+mariadb
+dhcp
+dns
+kea
+mysql
+iptables
+netplan
